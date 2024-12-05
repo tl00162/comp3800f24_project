@@ -1,5 +1,6 @@
 # comp3800f24_project
 Analyzed Twitter data to explore trends, sentiment, and engagement metrics about ai over time.
+Thomas Lamont
 
 ## Jupyter Notebook
 The analysis and code are available in comp3800f24_project.ipynb
